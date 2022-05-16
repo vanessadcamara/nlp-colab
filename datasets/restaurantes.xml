@@ -1,0 +1,813 @@
+<reviews>
+<review codeRestaurant="10109213" idReview="1">
+<sentence idSentence="1">Hamburgueria artesanal com tempero diferenciado, de primeira qualidade, fora o atendimento no qual diferencia por serem bilíngues,.</sentence>
+<opinion aspect="tempero" sentiment="diferenciado" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="tempero" sentiment="primeira qualidade" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">Recomendo quem quer saciar a fome..</sentence>
+</review>
+<review codeRestaurant="10275752" idReview="2">
+<sentence idSentence="1">Excelente peixe, para quem esta localizado no Distrito Industrial, excelente pedida para almoço.</sentence>
+<opinion aspect="peixe" sentiment="Excelente" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">dica Matrinxã recheada.</sentence>
+</review>
+<review codeRestaurant="10325799" idReview="3">
+<sentence idSentence="1">Serve lanches e cerveja gelada, tem mesinhas fora do estabelecimento, funciona em uma casa antiga o que faz parte do seu charme.</sentence>
+<opinion aspect="cerveja" sentiment="gelada" polarity="Positive" aspectClass="Drinks" type="explicit"/>
+<sentence idSentence="2">Recomendo.</sentence>
+</review>
+<review codeRestaurant="10342023" idReview="4">
+<sentence idSentence="1">Muito bom o atendimento.</sentence>
+<opinion aspect="atendimento" sentiment="bom" polarity="Positive" aspectClass="Service" type="explicit"/>
+<sentence idSentence="2">Cardápio variado.</sentence>
+<opinion aspect="Cardápio" sentiment="variado" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="3">Culinária regional e deliciosa.</sentence>
+<sentence idSentence="4">Ambiente agradável.</sentence>
+<opinion aspect="Ambiente" sentiment="agradável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<sentence idSentence="5">Custo benefício alto.</sentence>
+<opinion aspect="Custo benefício" sentiment="alto" polarity="Negative" aspectClass="Price" type="explicit"/>
+<sentence idSentence="6">So vale a pena em datas especiais.</sentence>
+<sentence idSentence="7">Recomendo conhecer.</sentence>
+</review>
+<review codeRestaurant="10342023" idReview="5">
+<sentence idSentence="1">Bom para experimentar releituras de pratos da comida regional.</sentence>
+<sentence idSentence="2">Adorei TUDO que experimentei, especialmente, o pesto de Jambu.</sentence>
+<sentence idSentence="3">Fora isso, o atendimento é MUITO bom e o ambiente/vista são lindos.</sentence>
+<opinion aspect="atendimento" sentiment="bom" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="ambiente" sentiment="lindos" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="vista" sentiment="lindos" polarity="Positive" aspectClass="Location" type="explicit"/>
+</review>
+<review codeRestaurant="10558302" idReview="6">
+<sentence idSentence="1">As empanadas deste lugar são deliciosas, e as cervejas também, tem boa opção de vinho!!</sentence>
+<opinion aspect="vinho" sentiment="boa" polarity="Positive" aspectClass="Drinks" type="explicit"/>
+<opinion aspect="empanadas" sentiment="deliciosas" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="cervejas" sentiment="deliciosas" polarity="Positive" aspectClass="Drinks" type="explicit"/>
+<sentence idSentence="2">Gostei, pena que o lugar é pequeno, muitas vezes não tem lugares disponíveis!</sentence>
+<opinion aspect="lugar" sentiment="pequeno" polarity="Negative" aspectClass="Ambience" type="explicit"/>
+</review>
+<review codeRestaurant="11866011" idReview="7">
+<sentence idSentence="1">Pratos usando produtos regionais mas com inovações.</sentence>
+<sentence idSentence="2">Ambiente agradável com decoração lembrando a Amazônia como parede imitando escamas de pirarucu e casa de pau-a-pique.</sentence>
+<opinion aspect="Ambiente" sentiment="agradável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+</review>
+<review codeRestaurant="11899261" idReview="8">
+<sentence idSentence="1">Ambiente agradável, bons pratos, comida saborosa , bom serviço, vale a pena conferir, bom tempero, recomendo</sentence>
+<opinion aspect="Ambiente" sentiment="agradável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="pratos" sentiment="bons" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="comida" sentiment="saborosa" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="serviço" sentiment="bom" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="tempero" sentiment="bom" polarity="Positive" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="12104215" idReview="9">
+<sentence idSentence="1">Ambiente confortável, ótimo atendimento com um garçon simpático, ele nos contou a história do empreendimento e sempre bem solícito.</sentence>
+<opinion aspect="Ambiente" sentiment="confortável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="atendimento" sentiment="ótimo" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="garçon" sentiment="simpático" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="garçon" sentiment="solícito" polarity="Positive" aspectClass="Service" type="explicit"/>
+<sentence idSentence="2">Comida Boa por um bom preço.</sentence>
+<opinion aspect="Comida" sentiment="Boa" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="preço" sentiment="bom" polarity="Positive" aspectClass="Price" type="explicit"/>
+<sentence idSentence="3">O restaurante fica dentro do hotel Vila Amazônia</sentence>
+</review>
+<review codeRestaurant="12196181" idReview="10">
+<sentence idSentence="1">Adoro as pizzas e o almoço, nas duas unidades.</sentence>
+<opinion aspect="pizzas" sentiment="Adoro" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="almoço" sentiment="Adoro" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">O atendimento também é muito bom.</sentence>
+<opinion aspect="atendimento" sentiment="bom" polarity="Positive" aspectClass="Service" type="explicit"/>
+<sentence idSentence="3">Delivery também vale super a pena.. a pizza chega bem quentinha!</sentence>
+<opinion aspect="Delivery" sentiment="vale super a pena" polarity="Positive" aspectClass="Service" type="explicit"/>
+</review>
+<review codeRestaurant="12433911" idReview="11">
+<sentence idSentence="1">Vale a pena fazer uma visita e conferir os pratos deliciosos, é um lugar seguro, confortável,refrigerado, familiar e romântico, preço acessível,</sentence>
+<opinion aspect="pratos" sentiment="deliciosos" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="lugar" sentiment="seguro" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="lugar" sentiment="confortável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="lugar" sentiment="refrigerado" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="preço" sentiment="acessível" polarity="Positive" aspectClass="Price" type="explicit"/>
+<opinion aspect="lugar" sentiment="familiar" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="lugar" sentiment="romântico" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+</review>
+<review codeRestaurant="12433911" idReview="12">
+<sentence idSentence="1">Comemos um prato Camarões Beira mar!</sentence>
+<sentence idSentence="2">É excepcional, mas poderia vim um pouco mais...</sentence>
+<sentence idSentence="3">Serve três pessoas.</sentence>
+<sentence idSentence="4">Vem como acompanhamento batata cozida e arroz com brócolis!</sentence>
+<sentence idSentence="5">Coco Bambu sempre tem fila!</sentence>
+<sentence idSentence="6">É bom ligar antes para fazer a reserva.</sentence>
+<sentence idSentence="7">Ligue o quanto antes porque o horário para agendar reserva é limitado.</sentence>
+<opinion aspect="horário" sentiment="limitado" polarity="Negative" aspectClass="Miscellaneous" type="explicit"/>
+</review>
+<review codeRestaurant="12433911" idReview="13">
+<sentence idSentence="1">ótimo restaurante e ótimo atendimento, fomos atendidos pelo sr. Pedro Jacks muito atencioso, gostei de mais.</sentence>
+<opinion aspect="restaurante" sentiment="ótimo" polarity="Positive" aspectClass="General" type="explicit"/>
+<opinion aspect="atendimento" sentiment="ótimo" polarity="Positive" aspectClass="Service" type="explicit"/>
+</review>
+<review codeRestaurant="12433911" idReview="14">
+<sentence idSentence="1">Comparativamente ao Coco Bambu de Brasília, achei os pratos melhores servidos de camarão.</sentence>
+<sentence idSentence="2">Lugar novo , dentro do shopping Ponta Negra.</sentence>
+<opinion aspect="Lugar" sentiment="novo" polarity="Positive" aspectClass="General" type="explicit"/>
+<sentence idSentence="3">Serviço bom.</sentence>
+<opinion aspect="Serviço" sentiment="bom" polarity="Positive" aspectClass="Service" type="explicit"/>
+<sentence idSentence="4">Som ao vivo agradavel.</sentence>
+<opinion aspect="Som ao vivo" sentiment="agradavel" polarity="Positive" aspectClass="Miscellaneous" type="explicit"/>
+<sentence idSentence="5">Pratos dão até para três pessoas.</sentence>
+</review>
+<review codeRestaurant="12433911" idReview="15">
+<sentence idSentence="1">Muito bom, recomendo atendimento 100% Agradeço o Ricardo José pelo excelente atendimento e o prato de camarão show!!!</sentence>
+<opinion aspect="atendimento" sentiment="excelente" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="atendimento" sentiment="100%" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="prato de camarão" sentiment="show" polarity="Positive" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="12433911" idReview="16">
+<sentence idSentence="1">Coco bambu é maravilhoso em qualquer lugar!</sentence>
+<opinion aspect="Coco bambu" sentiment="maravilhoso" polarity="Positive" aspectClass="General" type="explicit"/>
+<sentence idSentence="2">Camarão internacional para duas pessoas serve tranquilo para três!</sentence>
+<sentence idSentence="3">De sobremesa a cocada ao forno com sorvete é espetacular!</sentence>
+<opinion aspect="cocada ao forno com sorvete" sentiment="espetacular" polarity="Positive" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="12433911" idReview="17">
+<sentence idSentence="1">Fui no almoço.</sentence>
+<sentence idSentence="2">Primeiro o garçom foi inconveniente ao insistir no que deveríamos pedir, pedimos de entrada um camarão de 76 reais que não estava bem preparado.</sentence>
+<opinion aspect="garçom" sentiment="inconveniente" polarity="Negative" aspectClass="Service" type="explicit"/>
+<sentence idSentence="3">Depois de muita dúvida pois o cardápio é muito extenso e repetitivo, pedimos um camarão Iracema(157 reais) que no cardápio dizia servir até 4 pessoas, talvez serviria se a quarta pessoa aceitasse comer só arroz de leite, pois sobrou uma quantidade enorme, camarão mesmo que é bom achei que só come no máximo 3.</sentence>
+<opinion aspect="cardápio" sentiment="repetitivo" polarity="Negative" aspectClass="Miscellaneous" type="explicit"/>
+<opinion aspect="cardápio" sentiment="extenso" polarity="Negative" aspectClass="Miscellaneous" type="explicit"/>
+<sentence idSentence="4">De acompanhamento uma porção de macaxeira que nem comemos pois estava dura.</sentence>
+<sentence idSentence="5">Resultado, 300 reais a conta pra três pessoas, lugar bonito mas a comida, o atendimento e o preço não valeu a pena.</sentence>
+<opinion aspect="lugar" sentiment="bonito" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="preço" sentiment="não valeu a pena" polarity="Negative" aspectClass="Price" type="explicit"/>
+<opinion aspect="atendimento" sentiment="não valeu a pena" polarity="Negative" aspectClass="Service" type="explicit"/>
+<opinion aspect="comida" sentiment="não valeu a pena" polarity="Negative" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="12433911" idReview="18">
+<sentence idSentence="1">Ótima opção para uma sexta feira explorando Manaus .</sentence>
+<sentence idSentence="2">O local é lindo , a comida é ótima (sem falar na batida de coco!!)</sentence>
+<opinion aspect="local" sentiment="lindo" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="comida" sentiment="ótima" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="3">, música ao vivo e o atendimento perfeito do garçom Bruno .</sentence>
+<opinion aspect="atendimento" sentiment="perfeito" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="música ao vivo" sentiment="perfeito" polarity="Positive" aspectClass="Miscellaneous" type="explicit"/>
+<sentence idSentence="4">Podendo , voltaremos !</sentence>
+</review>
+<review codeRestaurant="14125547" idReview="19">
+<sentence idSentence="1">Esta sorveteria é muito simpática, bem em frente ao Teatro Amazonas, na praça.</sentence>
+<opinion aspect="sorveteria" sentiment="simpática" polarity="Positive" aspectClass="General" type="explicit"/>
+<sentence idSentence="2">Experimentei o sorvete de Creme de Cupuaçu, delicioso!</sentence>
+<opinion aspect="sorvete de Creme de Cupuaçu" sentiment="delicioso" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="3">Tem outros sabores de frutas locais e também os usuais.</sentence>
+<sentence idSentence="4">Além disso, o pessoal que atende é muito gentil!</sentence>
+<opinion aspect="pessoal que atende" sentiment="gentil" polarity="Positive" aspectClass="Service" type="explicit"/>
+</review>
+<review codeRestaurant="14979797" idReview="20">
+<sentence idSentence="1">Estivemos no kawamura para provar o sashimi, mas acabamos provando outros pratos tbm, gostamos de tudo, porém faltou um pouquinho de tempero na costelinha de porco.</sentence>
+<sentence idSentence="2">Mas nada que nos impeça de voltar</sentence>
+</review>
+<review codeRestaurant="2059832" idReview="21">
+<sentence idSentence="1">Eu recomendo o Banzeiro, um lugar perfeito para comer uma comida tipica da região e boa qualidade.</sentence>
+<opinion aspect="lugar" sentiment="perfeito" polarity="Positive" aspectClass="General" type="explicit"/>
+<sentence idSentence="2">Manaus esta de parabéns!</sentence>
+</review>
+<review codeRestaurant="2059832" idReview="22">
+<sentence idSentence="1">Variação no cardipio 100% regional, comida quentinha e muito saborosa, tambaqui assado sem espinha juntamente com a farofa de castanha e aquele suco de cupuaçu, melhor degustação que já tive.</sentence>
+<opinion aspect="comida" sentiment="saborosa" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="degustação" sentiment="melhor" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="comida" sentiment="quentinha" polarity="Positive" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="2059832" idReview="23">
+<sentence idSentence="1">A melhor peixaria da cidade!</sentence>
+<opinion aspect="peixaria" sentiment="melhor" polarity="Positive" aspectClass="General" type="explicit"/>
+<sentence idSentence="2">Ambiente agradável e culinária apurada, tendo como principais ingredientes os belos peixes de água doce da região.</sentence>
+<opinion aspect="Ambiente" sentiment="agradável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="culinária" sentiment="apurada" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="3">O preço é um pouco acima da média, mas vale cada centavo que custa.</sentence>
+<opinion aspect="preço" sentiment="acima da média" polarity="Negative" aspectClass="Price" type="explicit"/>
+<sentence idSentence="4">Recomendo</sentence>
+</review>
+<review codeRestaurant="2059832" idReview="24">
+<sentence idSentence="1">Os pratos são bem servidos, por isso atenção, o pedido para uma pessoa geralmente vem com dois filés ou postas, dependendo do seu apetite e do seu bolso...peça o que lhe for melhor.</sentence>
+<opinion aspect="pratos" sentiment="bem servidos" polarity="Positive" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="2059832" idReview="25">
+<sentence idSentence="1">Sem duvidas, o Restaurante Banzeiro é uma das melhores peixarias de Manaus!</sentence>
+<opinion aspect="Restaurante Banzeiro" sentiment="melhores" polarity="Positive" aspectClass="General" type="explicit"/>
+<sentence idSentence="2">A criatividade na elaboração dos pratos é fantástica!</sentence>
+<opinion aspect="criatividade na elaboração dos pratos" sentiment="fantástica" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="3">Uma explosão de sabores regionais inigualável!</sentence>
+<opinion aspect="sabores regionais" sentiment="inigualável" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="4">Atualmente peca, é muito, pela falta de compromisso com o horário de atendimento (fechamento) pela parte da noite!</sentence>
+<sentence idSentence="5">Visito o restaurante com certa frequência e muitas foram as vezes q mesmo chegando antes das 23:00 ( horário de fechamento, em tese)encontrei com a plaquinha minúscula, pouco visível de dentro do carro, avisando que já estava fechado.</sentence>
+<sentence idSentence="6">Saudades do tempo em q o maître Adonias nos atendia e aos demais clientes, com rigor no cumprimento do horário!.</sentence>
+<sentence idSentence="7">Lamentável um restaurante da categoria do Banzeiro, não respeitar os clientes com o Básico., qual seja, cumprimento do horário!</sentence>
+<sentence idSentence="8">Saudades do que já tivemos!</sentence>
+</review>
+<review codeRestaurant="2059832" idReview="26">
+<sentence idSentence="1">Comida saborosa.</sentence>
+<opinion aspect="Comida" sentiment="saborosa" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">Impecável.</sentence>
+<sentence idSentence="3">Peixe estava bem preparado no ponto e com acompanhamentos deliciosos.</sentence>
+<opinion aspect="acompanhamentos" sentiment="deliciosos" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="Peixe" sentiment="bem preparado" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="4">O único problema foi no atendimento, pois o garçom deveria ser novo e não sabia explicar as bebidas por exemplo.</sentence>
+<sentence idSentence="5">Mas valeu a pena.</sentence>
+</review>
+<review codeRestaurant="2059832" idReview="27">
+<sentence idSentence="1">Sabor da comida fantástico, em qualquer especialidade típica da região.</sentence>
+<opinion aspect="Sabor da comida" sentiment="fantástico" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">Além do atendimento e ambiente super confortável.</sentence>
+<opinion aspect="ambiente" sentiment="confortável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+</review>
+<review codeRestaurant="2059832" idReview="28">
+<sentence idSentence="1">Comida típica da região, gostosa, feita com capricho, peixes frescos, tudo muito gostoso!!</sentence>
+<opinion aspect="Comida" sentiment="gostosa" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">Atendimento excelente, garçons muito atenciosos!</sentence>
+<opinion aspect="Atendimento" sentiment="excelente" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="garçons" sentiment="atenciosos" polarity="Positive" aspectClass="Service" type="explicit"/>
+<sentence idSentence="3">Foi uma experiência incrível e única!</sentence>
+</review>
+<review codeRestaurant="2059832" idReview="29">
+<sentence idSentence="1">Um restaurante que representa muito bem a potencialidade da comida nortense.</sentence>
+<sentence idSentence="2">Muito bem preparado e elaborado, apesar do cargo chefe ser uma alimentação bem pesada, ainda assim o indico (pirarucu amazônico).</sentence>
+<sentence idSentence="3">Infelizmente as bebidas pra quem quer uma experiência completa, não vai de total encontro a expectativa, caipirinhas e caipiroskas mal elaboradas, mas logico os sucos são muito bem feitos e a batida de cacau sensacional.</sentence>
+<opinion aspect="batida de cacau" sentiment="sensacional" polarity="Positive" aspectClass="Drinks" type="explicit"/>
+<opinion aspect="sucos" sentiment="bem feitos" polarity="Positive" aspectClass="Drinks" type="explicit"/>
+<sentence idSentence="4">Tem pratos feitos com muito requinte (camarão com castanha) e pratos feitos como se fosse de casa (sardinha frita com baião).</sentence>
+<sentence idSentence="5">Indico para quem quiser ter uma experiencia amazônica diferenciada.</sentence>
+<sentence idSentence="6">Afinal de contas o melhor cozinheiro do Brasil varias vezes consecutivas não é a toa.</sentence>
+</review>
+<review codeRestaurant="2059832" idReview="30">
+<sentence idSentence="1">é um otimo restaurante, os pratos sao muito bons, o ambiente e o atendimento também, porém há um problema com a acústica do restaurante, muito barulhento</sentence>
+<opinion aspect="restaurante" sentiment="otimo" polarity="Positive" aspectClass="General" type="explicit"/>
+<opinion aspect="pratos" sentiment="bons" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="ambiente" sentiment="bons" polarity="Positive" aspectClass="Ambience" type="anaphora"/>
+<opinion aspect="atendimento" sentiment="bons" polarity="Positive" aspectClass="Service" type="anaphora"/>
+</review>
+<review codeRestaurant="2191338" idReview="31">
+<sentence idSentence="1">Vale experimentar o tambaqui na brasa, é muito bom!!!</sentence>
+<opinion aspect="tambaqui na brasa" sentiment="bom" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">O restaurante é sem luxo, mas o atendimento é muito bom, com garçons simpáticos.</sentence>
+<opinion aspect="garçons" sentiment="simpáticos" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="restaurante" sentiment="sem luxo" polarity="Negative" aspectClass="General" type="explicit"/>
+</review>
+<review codeRestaurant="2191338" idReview="32">
+<sentence idSentence="1">Parada obrigatória sempre que vou a Manaus!!</sentence>
+<sentence idSentence="2">Tucunaré, tambaqui e pirarucu, é só escolher, cada um melhor que o outro.</sentence>
+<sentence idSentence="3">Atendimento bom, local familiar.</sentence>
+<opinion aspect="Atendimento" sentiment="bom" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="local" sentiment="familiar" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+</review>
+<review codeRestaurant="12087072" idReview="33">
+<sentence idSentence="1">Um lugar seguro, agradável, aconchegante, preço acessível, bem localizado, faça uma visita com a sua família ou amigos.</sentence>
+<opinion aspect="preço" sentiment="acessível" polarity="Positive" aspectClass="Price" type="explicit"/>
+<opinion aspect="localizado" sentiment="bem" polarity="Positive" aspectClass="Location" type="explicit"/>
+<opinion aspect="lugar" sentiment="agradável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="lugar" sentiment="seguro" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+</review>
+<review codeRestaurant="12433911" idReview="34">
+<sentence idSentence="1">Excelente atendimento, garçom Ebrahim muito educado e atencioso.</sentence>
+<opinion aspect="atendimento" sentiment="Excelente" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="garçom Ebrahim" sentiment="educado" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="garçom Ebrahim" sentiment="atencioso" polarity="Positive" aspectClass="Service" type="explicit"/>
+<sentence idSentence="2">Recomendo o restaurante, o melhor de Manaus!</sentence>
+</review>
+<review codeRestaurant="2059832" idReview="35">
+<sentence idSentence="1">Comida regional chique demais.</sentence>
+<opinion aspect="Comida regional" sentiment="chique demais" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">Ambiente frequentado pela elite de Manaus.</sentence>
+<sentence idSentence="3">Encontrei até jogador de vôlei (Nalbert).</sentence>
+<sentence idSentence="4">E vi um peixe tambaqui de 40 Kg!!!</sentence>
+</review>
+<review codeRestaurant="2224502" idReview="36">
+<sentence idSentence="1">Nota 10 restaurante com comidas típicas e variadas para todos gostos atendimento nota mil super recomendo fantástico voltaria com certeza!!!</sentence>
+<opinion aspect="atendimento" sentiment="nota mil" polarity="Positive" aspectClass="Service" type="explicit"/>
+</review>
+<review codeRestaurant="2278002" idReview="37">
+<sentence idSentence="1">Manaus tem peixarias muito boas e a Choupana, sem dúvida está entre as melhores!</sentence>
+<sentence idSentence="2">A comida é ótima, saborosa e bem preparada.</sentence>
+<opinion aspect="comida" sentiment="ótima" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="comida" sentiment="saborosa" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="comida" sentiment="bem preparada" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="3">O ambiente é agradabilíssimo!</sentence>
+<opinion aspect="ambiente" sentiment="agradabilíssimo" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<sentence idSentence="4">Recomendo!</sentence>
+</review>
+<review codeRestaurant="2364545" idReview="38">
+<sentence idSentence="1">O bar fica próximo ao Teatro Amazonas, e geralmente tem música ao vivo acompanhada de cerveja gelada.</sentence>
+<opinion aspect="cerveja" sentiment="gelada" polarity="Positive" aspectClass="Drinks" type="explicit"/>
+<sentence idSentence="2">Para comer uma boa pedida é o sanduíche de pernil e bolinhos de bacalhau.</sentence>
+<sentence idSentence="3">O ambiente é agradável em razão da diversidade de seus frequentadores.</sentence>
+<opinion aspect="ambiente" sentiment="agradável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+</review>
+<review codeRestaurant="2364989" idReview="39">
+<sentence idSentence="1">É um restaurante executivo com buffet gostoso e serviço a la carte bem no centrinho da cidade mas é bem pequeno.</sentence>
+<opinion aspect="buffet" sentiment="gostoso" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">Funciona para almoço e jantar.</sentence>
+</review>
+<review codeRestaurant="2365021" idReview="40">
+<sentence idSentence="1">Muito bom, local simples de boa qualidade, sucos deliciosos e abundantes.</sentence>
+<opinion aspect="sucos" sentiment="deliciosos" polarity="Positive" aspectClass="Drinks" type="explicit"/>
+<opinion aspect="sucos" sentiment="abundantes" polarity="Positive" aspectClass="Drinks" type="explicit"/>
+<opinion aspect="local" sentiment="simples" polarity="Negative" aspectClass="Location" type="explicit"/>
+<sentence idSentence="2">Preço razoável.</sentence>
+<opinion aspect="Preço" sentiment="razoável" polarity="Positive" aspectClass="Price" type="explicit"/>
+<sentence idSentence="3">Aconselho conhecer!.</sentence>
+</review>
+<review codeRestaurant="2365141" idReview="41">
+<sentence idSentence="1">Amei conhecer,o açaí é delicioso!Tem bastante opção em comida regional,o que nos deixa bem servidos!Super recomendo.</sentence>
+<opinion aspect="açaí" sentiment="delicioso" polarity="Positive" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="3248041" idReview="42">
+<sentence idSentence="1">A Cantina Ghiotto é um dos pouquíssimos restaurantes em Manaus que está sempre se reinventando e buscando maneiras de melhorar seu espaço e serviço pra melhor atender seus clientes.</sentence>
+<sentence idSentence="2">Isso verdadeiramente me impressiona!</sentence>
+<sentence idSentence="3">Ótima opção pra quem gosta de um rodízio de massa e pizza em um ambiente descontraído repleto de jovens e muita energia positiva.</sentence>
+<opinion aspect="opção" sentiment="Ótima" polarity="Positive" aspectClass="General" type="anaphora"/>
+<sentence idSentence="4">Atendimento sempre excelente !</sentence>
+<opinion aspect="Atendimento" sentiment="excelente" polarity="Positive" aspectClass="Service" type="explicit"/>
+</review>
+<review codeRestaurant="2224502" idReview="43">
+<sentence idSentence="1">Entre um vôo e outro , já que no aeroporto de Manaus ainda não tem NEHUM restaurante , arriscamos esse .</sentence>
+<sentence idSentence="2">O local é bastante simples e até que o preço cobrado não é tão "simples" assim , mas a comida era boa .</sentence>
+<opinion aspect="local" sentiment="simples" polarity="Negative" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="comida" sentiment="boa" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="preço cobrado" sentiment='tão "simples" assim' polarity="Negative" aspectClass="Price" type="explicit"/>
+<sentence idSentence="3">Apenas fiquei surpresa pois era num sábado as 21:00 e não havia nenhuma mesa ocupada além da nossa.</sentence>
+<sentence idSentence="4">Uma pena!</sentence>
+</review>
+<review codeRestaurant="2239887" idReview="44">
+<sentence idSentence="1">A tradição gaúcha está bem representada o a Búfalo.</sentence>
+<sentence idSentence="2">Cortes especiais das mais nobres carnes são um convite todo especial.</sentence>
+<opinion aspect="carnes" sentiment="nobres" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="3">Delicioso, variado e completo buffet.</sentence>
+<opinion aspect="buffet" sentiment="Delicioso" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="buffet" sentiment="variado" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="buffet" sentiment="completo" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="4">Pratos quentes fenomenais.</sentence>
+<opinion aspect="Pratos quentes" sentiment="fenomenais" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="5">Também com opção de comida japonesa e peixes em geral.</sentence>
+<sentence idSentence="6">Agrada facilmente todos os gostos.</sentence>
+<sentence idSentence="7">Ambiente amplo, confortável e muito agradável.</sentence>
+<opinion aspect="Ambiente" sentiment="amplo" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="Ambiente" sentiment="confortável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="Ambiente" sentiment="agradável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<sentence idSentence="8">Atendimento nota 10.</sentence>
+<opinion aspect="Atendimento" sentiment="nota 10" polarity="Positive" aspectClass="Service" type="explicit"/>
+<sentence idSentence="9">Exelente localização.</sentence>
+<opinion aspect="localização" sentiment="Exelente" polarity="Positive" aspectClass="Location" type="explicit"/>
+</review>
+<review codeRestaurant="2239887" idReview="45">
+<sentence idSentence="1">Comida muito boa.</sentence>
+<opinion aspect="Comida" sentiment="boa" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">Casa muito linda, grande e elegante.</sentence>
+<opinion aspect="Casa" sentiment="linda" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="Casa" sentiment="grande" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="Casa" sentiment="elegante" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<sentence idSentence="3">Buffet variado de pratos quentes e frios.</sentence>
+<opinion aspect="Buffet" sentiment="variado" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="4">Churrascaria perfeita, Fanatástica!</sentence>
+<opinion aspect="Churrascaria" sentiment="perfeita" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="Churrascaria" sentiment="Fanatástica" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="5">Imperdivel!</sentence>
+</review>
+<review codeRestaurant="2239887" idReview="46">
+<sentence idSentence="1">Excelente comida, excelente atendimento.</sentence>
+<opinion aspect="comida" sentiment="Excelente" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="atendimento" sentiment="excelente" polarity="Positive" aspectClass="Service" type="explicit"/>
+<sentence idSentence="2">Pouca tempo de espera se consideramos que era uma data festiva.</sentence>
+<opinion aspect="tempo de espera" sentiment="Pouca" polarity="Positive" aspectClass="Miscellaneous" type="explicit"/>
+</review>
+<review codeRestaurant="2239887" idReview="47">
+<sentence idSentence="1">Boa carne, atendimento eficiente e grande variedade de saladas.</sentence>
+<opinion aspect="atendimento" sentiment="eficiente" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="carne" sentiment="Boa" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">Local agradável.</sentence>
+<opinion aspect="Local" sentiment="agradável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<sentence idSentence="3">Sucos com frutas locais além dos tradicionais.</sentence>
+</review>
+<review codeRestaurant="2239887" idReview="48">
+<sentence idSentence="1">Excelente comida, cozinha aberta a visita, estacionamento amplo, lugar bem aconchegante, amplo, bom atendimento, selv service.</sentence>
+<opinion aspect="comida" sentiment="Excelente" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="estacionamento" sentiment="amplo" polarity="Positive" aspectClass="Miscellaneous" type="explicit"/>
+<opinion aspect="lugar" sentiment="aconchegante" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="lugar" sentiment="amplo" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="atendimento" sentiment="bom" polarity="Positive" aspectClass="Service" type="explicit"/>
+</review>
+<review codeRestaurant="2278002" idReview="49">
+<sentence idSentence="1">Almoçamos em uma sexta feira, fomos em 2 famílias.</sentence>
+<sentence idSentence="2">A comida estava boa e bem servida.</sentence>
+<opinion aspect="comida" sentiment="boa" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="comida" sentiment="bem servida" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="3">O ambiente é amplo com 2 andares e banheiros bastante limpos.</sentence>
+<opinion aspect="ambiente" sentiment="amplo" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="banheiros" sentiment="limpos" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<sentence idSentence="4">O atendimento é cordial.</sentence>
+<opinion aspect="atendimento" sentiment="cordial" polarity="Positive" aspectClass="Service" type="explicit"/>
+<sentence idSentence="5">O que nos incomodou foi o volume do som da apresentação de um cantor, não permitia conversar em um tom normal, acabou nos irritando.</sentence>
+</review>
+<review codeRestaurant="2278002" idReview="50">
+<sentence idSentence="1">Uma excelente descoberta que fiz em terras manauaras ao localizar este simpático restaurante de peixe amazônico próximo ao hotel em que estive hospedado (Blue Tree Premium).</sentence>
+<opinion aspect="restaurante" sentiment="simpático" polarity="Positive" aspectClass="General" type="explicit"/>
+<sentence idSentence="2">Como já disse o cardápio principal é de peixe amazônico.</sentence>
+<sentence idSentence="3">Experimentei o 'Tambaqui na Telha'.</sentence>
+<sentence idSentence="4">No jantar em que estive havia música ao vivo com um ótimo cantor de MPB.</sentence>
+<sentence idSentence="5">Local agradável, vale a visita e excelente custo benefício (1 prato serve 3).</sentence>
+<opinion aspect="Local" sentiment="agradável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="custo benefício" sentiment="excelente" polarity="Positive" aspectClass="Price" type="explicit"/>
+</review>
+<review codeRestaurant="2278002" idReview="51">
+<sentence idSentence="1">Restaurante muito bom e concorrido de Manaus.</sentence>
+<opinion aspect="Restaurante" sentiment="bom" polarity="Positive" aspectClass="General" type="explicit"/>
+<opinion aspect="Restaurante" sentiment="concorrido" polarity="Positive" aspectClass="General" type="explicit"/>
+<sentence idSentence="2">Comida regional com pratos generosos.</sentence>
+<opinion aspect="pratos" sentiment="generosos" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="3">Muito bom com muitas opções, além do tradiconal peixe, tem também outros pratos para quem não come peixe.</sentence>
+<sentence idSentence="4">Preço justo</sentence>
+<opinion aspect="Preço" sentiment="justo" polarity="Positive" aspectClass="Price" type="explicit"/>
+</review>
+<review codeRestaurant="2307595" idReview="52">
+<sentence idSentence="1">O atendimento foi ótimo, a entrada (banana pacová com patê de algum peixe) foi uma delícia e o tambaqui, em si, um espetáculo!</sentence>
+<opinion aspect="atendimento" sentiment="ótimo" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="entrada" sentiment="delícia" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="tambaqui" sentiment="espetáculo" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">Recomendo!</sentence>
+<sentence idSentence="3">O preço também é ótimo!</sentence>
+<opinion aspect="preço" sentiment="ótimo" polarity="Positive" aspectClass="Price" type="explicit"/>
+</review>
+<review codeRestaurant="2307595" idReview="53">
+<sentence idSentence="1">Tambaqui um dos peixes mais gostosos de Manaus e região você pode comprar e fazer o mesmo caldeirada ou assado na brasa com o famoso tucupi, pimenta da região.</sentence>
+</review>
+<review codeRestaurant="2307595" idReview="54">
+<sentence idSentence="1">Deliciosamente ,variedades no cardápio ,ambiente confortável e com um preçinho saboroso,indico p todos,vale conferir</sentence>
+<opinion aspect="preçinho" sentiment="saboroso" polarity="Positive" aspectClass="Price" type="explicit"/>
+<opinion aspect="ambiente" sentiment="confortável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+</review>
+<review codeRestaurant="2307595" idReview="55">
+<sentence idSentence="1">Apesar de não terem matrinxã assado, o qual queria jantar, o tambaqui estava saboroso e a farofa branca com ovo estava muito bom.</sentence>
+<opinion aspect="farofa branca com ovo" sentiment="bom" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="tambaqui" sentiment="saboroso" polarity="Positive" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="2352189" idReview="56">
+<sentence idSentence="1">Otimo rodizio de carne tanto para o almoço como para o jantar, preço bastante em conta, grande variedade de comida, alem de carne, tem massa, saladas, ambiente bom, amplo, atendimento excelente.</sentence>
+<opinion aspect="ambiente" sentiment="bom" polarity="Positive" aspectClass="Location" type="explicit"/>
+<opinion aspect="ambiente" sentiment="amplo" polarity="Positive" aspectClass="Location" type="explicit"/>
+<opinion aspect="atendimento" sentiment="excelente" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="rodizio de carne" sentiment="Otimo" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="preço" sentiment="em conta" polarity="Positive" aspectClass="Price" type="explicit"/>
+<sentence idSentence="2">SUPER RECOMENDO.</sentence>
+</review>
+<review codeRestaurant="2364532" idReview="57">
+<sentence idSentence="1">Se você procura comer um bom bacalhau, estará no lugar certo.</sentence>
+<opinion aspect="bacalhau" sentiment="bom" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">Experimentei dois pratos e ambos estavam divinos.</sentence>
+<opinion aspect="pratos" sentiment="n" polarity="Positive" aspectClass="Food" type="anaphora"/>
+<sentence idSentence="3">O ambiente é muito bonito, mas nem tanto acolhedor.</sentence>
+<opinion aspect="ambiente" sentiment="bonito" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<sentence idSentence="4">Os funcionários são educados, porém, numa das vezes que estivemos houve um problema com a conta (erro da casa) e a mesma não se esforçou para resolvê-lo.</sentence>
+<opinion aspect="funcionários" sentiment="educados" polarity="Positive" aspectClass="Service" type="explicit"/>
+<sentence idSentence="5">Um casa desse nível não poderia ter tal comportamento.</sentence>
+<sentence idSentence="6">Todavia, o preço dos pratos são assustadores, muito embora um prato individual serve com fartura duas pessoas, mas ainda assim o preço é puxado.</sentence>
+<opinion aspect="preço" sentiment="puxado" polarity="Negative" aspectClass="Price" type="explicit"/>
+<opinion aspect="pratos" sentiment="n" polarity="Positive" aspectClass="Food" type="anaphora"/>
+<opinion aspect="preço dos pratos" sentiment="assustadores" polarity="Negative" aspectClass="Price" type="explicit"/>
+</review>
+<review codeRestaurant="2364545" idReview="58">
+<sentence idSentence="1">Sim, em Manaus tem opções todos os dias da semana, e no Armando começa na segunda feira!!!</sentence>
+<sentence idSentence="2">Tem música ao vivo, bolinho de bacalhau, bebidas geladas, bom atendimento, gente de todas as partes do mundo!!!</sentence>
+<opinion aspect="bebidas" sentiment="geladas" polarity="Positive" aspectClass="Drinks" type="explicit"/>
+<opinion aspect="atendimento" sentiment="bom" polarity="Positive" aspectClass="Service" type="explicit"/>
+<sentence idSentence="3">É sem sombra de dúvidas um dos melhores bares da cidade, sem frescura!!!</sentence>
+</review>
+<review codeRestaurant="2364561" idReview="59">
+<sentence idSentence="1">adorei estar neste lugar o qual possue um otimo cardapio regional local alem do otimo atendimento o local e bastante amplo e bem climatizado com amplo estacionamento e otima localizacao.. recomendo a todos..</sentence>
+<opinion aspect="local" sentiment="amplo" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="local" sentiment="climatizado" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="estacionamento" sentiment="amplo" polarity="Positive" aspectClass="Miscellaneous" type="explicit"/>
+<opinion aspect="localizacao" sentiment="otima" polarity="Positive" aspectClass="Location" type="explicit"/>
+<opinion aspect="atendimento" sentiment="otimo" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="cardapio regional" sentiment="otimo" polarity="Positive" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="2364570" idReview="60">
+<sentence idSentence="1">Muito bom.</sentence>
+<sentence idSentence="2">Tanto no atendimento quanto no ambiente, e, principalmente nas variedades encontradas para um excelente café.</sentence>
+<sentence idSentence="3">Ideal para o domingo de manhã com a família, pois possui um ambiente agradável e uma ótima localização.</sentence>
+<opinion aspect="localização" sentiment="ótima" polarity="Positive" aspectClass="Location" type="explicit"/>
+<opinion aspect="ambiente" sentiment="agradável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+</review>
+<review codeRestaurant="2364577" idReview="61">
+<sentence idSentence="1">Mesmo os não vegetarianos comerão bem.</sentence>
+<sentence idSentence="2">Comida de qualidade, com pouco óleo, lembra os restaurantes Adventistas.</sentence>
+<opinion aspect="Comida" sentiment="qualidade" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="óleo" sentiment="pouco" polarity="Positive" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="2364756" idReview="62">
+<sentence idSentence="1">atendimento deixa a desejar.</sentence>
+<opinion aspect="atendimento" sentiment="deixa a desejar" polarity="Negative" aspectClass="Service" type="explicit"/>
+<sentence idSentence="2">Nem sempre fui bem atendida.</sentence>
+</review>
+<review codeRestaurant="2364967" idReview="63">
+<sentence idSentence="1">O Coqueiro verde serve uma deliciosa carne de sol, também contam com serviço de entrega o que é uma boa pedida para quem não quer sair de casa.. O serviço no restaurante é simples, a comida também, mas muito gostosa..</sentence>
+<opinion aspect="carne de sol" sentiment="deliciosa" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="comida" sentiment="gostosa" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="serviço" sentiment="simples" polarity="Neutral" aspectClass="Service" type="explicit"/>
+<opinion aspect="serviço de entrega" sentiment="boa pedida" polarity="Positive" aspectClass="Service" type="explicit"/>
+</review>
+<review codeRestaurant="2364967" idReview="64">
+<sentence idSentence="1">É uma delicia a carne sol do coqueiro verde, com mais os bolinhos de macaxeira frita.</sentence>
+<opinion aspect="carne sol" sentiment="delicia" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">Padrão de qualidade, bom atendimento, o preço é razoável.</sentence>
+<opinion aspect="atendimento" sentiment="bom" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="preço" sentiment="razoável" polarity="Negative" aspectClass="Price" type="explicit"/>
+</review>
+<review codeRestaurant="2364974" idReview="65">
+<sentence idSentence="1">O lugar é adoravel, oferece um excelente serviço e o lugar perfeito para um jantarzinho a dois... Para quem gosta de massa este é um ótimo restaurante...</sentence>
+<opinion aspect="restaurante" sentiment="ótimo" polarity="Positive" aspectClass="General" type="explicit"/>
+<opinion aspect="serviço" sentiment="excelente" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="lugar" sentiment="adoravel" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="lugar" sentiment="perfeito para um jantarzinho a dois" polarity="Positive" aspectClass="Location" type="explicit"/>
+</review>
+<review codeRestaurant="2364974" idReview="66">
+<sentence idSentence="1">Boas pixzzas e boas massas.</sentence>
+<opinion aspect="pixzzas" sentiment="Boas" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="massas" sentiment="boas" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">Lugar aconchegante e tranquilo.</sentence>
+<opinion aspect="Lugar" sentiment="aconchegante" polarity="Positive" aspectClass="Location" type="explicit"/>
+<opinion aspect="Lugar" sentiment="tranquilo" polarity="Positive" aspectClass="Location" type="explicit"/>
+<sentence idSentence="3">Atendimento razoavel, principalmente quando está cheio.</sentence>
+<opinion aspect="Atendimento" sentiment="razoavel" polarity="Negative" aspectClass="Service" type="explicit"/>
+<sentence idSentence="4">Preço justo pela qualidade dos pratos.</sentence>
+<opinion aspect="Preço" sentiment="justo" polarity="Positive" aspectClass="Price" type="explicit"/>
+</review>
+<review codeRestaurant="2365001" idReview="67">
+<sentence idSentence="1">Os garçons falam como se fossem ada nossa família!</sentence>
+<sentence idSentence="2">O ambiente é sofisticado e há bastante opção de acompanhamento, desde saladas, geleias, queijos e o tradicional para um churrasco.</sentence>
+<opinion aspect="ambiente" sentiment="sofisticado" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<sentence idSentence="3">Achei que faltou o feijão normal, pois só tinha o tropeiro!</sentence>
+<sentence idSentence="4">Na entrada, há cachaças artesanais para os clientes provarem!</sentence>
+<sentence idSentence="5">O local é caro, então faça valer a pena e coma muito!</sentence>
+</review>
+<review codeRestaurant="2365004" idReview="68">
+<sentence idSentence="1">O nome do restaurante pode dar uma conotação de vender apenas lanches, mas não é assim, pois possui uma diversidade de sopas no rodízio que oferece.</sentence>
+<sentence idSentence="2">E é uma delicia, com destaque para a sopa de carne com legumes acompanhada da deliciosa torradinha.</sentence>
+<opinion aspect="torradinha" sentiment="deliciosa" polarity="Positive" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="2365018" idReview="69">
+<sentence idSentence="1">Ótimo lugar para ir comemorar aniversarios, confraternizações e tudo mais.</sentence>
+<sentence idSentence="2">O preço é mais salgado mas é justo.</sentence>
+<opinion aspect="preço" sentiment="salgado" polarity="Negative" aspectClass="Price" type="explicit"/>
+<opinion aspect="preço" sentiment="justo" polarity="Positive" aspectClass="Price" type="explicit"/>
+<sentence idSentence="3">Ambiente bem amplo.</sentence>
+<opinion aspect="Ambiente" sentiment="amplo" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<sentence idSentence="4">Atendimento muito eficaz!</sentence>
+<opinion aspect="Atendimento" sentiment="eficaz" polarity="Positive" aspectClass="Service" type="explicit"/>
+<sentence idSentence="5">Recomendo!</sentence>
+</review>
+<review codeRestaurant="2365018" idReview="70">
+<sentence idSentence="1">boa localização, bonito, amplo , limpo, pessoal atencioso , comida super agradável, e farta ; as carnes sao da melhor qualidade</sentence>
+<opinion aspect="localização" sentiment="boa" polarity="Positive" aspectClass="Location" type="explicit"/>
+<opinion aspect="pessoal" sentiment="atencioso" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="comida" sentiment="agradável" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="comida" sentiment="farta" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="carnes" sentiment="melhor qualidade" polarity="Positive" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="2365018" idReview="71">
+<sentence idSentence="1">Ótimo atendimento, carnes saborosíssimas, ambiente agradável com brinquedoteca, boa opção para os pais que tem filhos pequenos.</sentence>
+<opinion aspect="atendimento" sentiment="Ótimo" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="carnes" sentiment="saborosíssimas" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="ambiente" sentiment="agradável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<sentence idSentence="2">Não deixe de pedir o steak de alcatra e a costela com molho barbecue.. são fantásticos!</sentence>
+<sentence idSentence="3">Vou sempre que posso.</sentence>
+</review>
+<review codeRestaurant="2365018" idReview="72">
+<sentence idSentence="1">Excelente churrascaria.</sentence>
+<opinion aspect="churrascaria" sentiment="Excelente" polarity="Positive" aspectClass="General" type="explicit"/>
+<sentence idSentence="2">Após alguns dias comendo apenas os pratos da região com peixe, resolvi comer uma boa carne e fiquei muito satisfeito com o restaurante.</sentence>
+<sentence idSentence="3">O ambiente é bem agradável.</sentence>
+<opinion aspect="ambiente" sentiment="agradável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<sentence idSentence="4">Para quem prefere menos barulho, sugiro ficar na parte superior.</sentence>
+<sentence idSentence="5">Pedi a picanha e a carne veio suculenta e no ponto certo.</sentence>
+<opinion aspect="carne" sentiment="suculenta" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="6">O atendimento também foi ótimo e a comida veio super rápido.</sentence>
+<opinion aspect="atendimento" sentiment="ótimo" polarity="Positive" aspectClass="Service" type="explicit"/>
+</review>
+<review codeRestaurant="2365021" idReview="73">
+<sentence idSentence="1">Lanche em um bairro tradicional e antido de manaus, localizado mas precisamente em uma area rodeada de auto peças.</sentence>
+</review>
+<review codeRestaurant="2365021" idReview="74">
+<sentence idSentence="1">Ótima variedade de sucos.</sentence>
+<opinion aspect="variedade de sucos" sentiment="Ótima" polarity="Positive" aspectClass="Drinks" type="explicit"/>
+<sentence idSentence="2">Salgados e sanduíches saborosos, porém o valor exorbitante cobrado me deixa insatisfeito.</sentence>
+<opinion aspect="sanduíches" sentiment="saborosos" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="Salgados" sentiment="saborosos" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="valor" sentiment="exorbitante" polarity="Negative" aspectClass="Price" type="explicit"/>
+</review>
+<review codeRestaurant="2365033" idReview="75">
+<sentence idSentence="1">É horrivel, o atendimento vai de mal a pior só depende do astral dos funcionários, além disso para "mundo" de alguma coisa essa casa passa muito longe!</sentence>
+<opinion aspect="atendimento" sentiment="vai de mal a pior" polarity="Negative" aspectClass="Service" type="explicit"/>
+<sentence idSentence="2">é um lugar agradável por estar no Largo, no entanto poderia ser um ótimo lugar se mudasse a administração, seria realmente um lugar interessante de se conhecer!</sentence>
+<opinion aspect="lugar" sentiment="agradável" polarity="Positive" aspectClass="Location" type="explicit"/>
+</review>
+<review codeRestaurant="2365085" idReview="76">
+<sentence idSentence="1">Tucunaré escabeche, e primeira, pirão a gosto.</sentence>
+<sentence idSentence="2">Tucunaré peixada sem igual.</sentence>
+<opinion aspect="Tucunaré peixada" sentiment="sem igual" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="3">Vários tipos de molho regional, com tucupi e outros.</sentence>
+</review>
+<review codeRestaurant="2365085" idReview="77">
+<sentence idSentence="1">Boa estrutura, ótima comida, esperava ais variedade, serve rodízio e a la carte, atendimento bom, poderia ter maior área climatizada, não identifiquei mobilidade para cadeirantes, idosos, se for em um numero grande de pessoas, é bom fazer uma reserva.</sentence>
+<opinion aspect="estrutura" sentiment="Boa" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="atendimento" sentiment="bom" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="comida" sentiment="ótima" polarity="Positive" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="2365102" idReview="78">
+<sentence idSentence="1">O restaurante do SENAC é bem situado.</sentence>
+<opinion aspect="situado" sentiment="bem" polarity="Positive" aspectClass="Location" type="explicit"/>
+<sentence idSentence="2">Ambiente super higienizado, atendimento excelente, os preços são ótimos.</sentence>
+<opinion aspect="Ambiente" sentiment="higienizado" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="atendimento" sentiment="excelente" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="preços" sentiment="ótimos" polarity="Positive" aspectClass="Price" type="explicit"/>
+<sentence idSentence="3">As comidas são excelentes.</sentence>
+<opinion aspect="comidas" sentiment="excelentes" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="4">Muito bom..., aconselho!.</sentence>
+</review>
+<review codeRestaurant="2365102" idReview="79">
+<sentence idSentence="1">Almoçamos nesta escola de cullary.</sentence>
+<sentence idSentence="2">Os alunos preparam a comida e servem os fregueses.</sentence>
+<sentence idSentence="3">Você dish-se para si mesmo como o alimento é vendido por quilo (não é caro).</sentence>
+<opinion aspect="caro" sentiment="" polarity="Negative" aspectClass="Price" type="implicit"/>
+<sentence idSentence="4">Há uma seleção variada mas limitada para escolher.</sentence>
+<sentence idSentence="5">Sobremesa e café são cobrados separadamente.</sentence>
+<sentence idSentence="6">Comida saborosa oferecendo muito bom valor.</sentence>
+<opinion aspect="valor" sentiment="bom" polarity="Positive" aspectClass="Price" type="explicit"/>
+<opinion aspect="Comida" sentiment="saborosa" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="7">[Almoço para duas pessoas - sobremesa, mais uma bebida = R $ 45]</sentence>
+</review>
+<review codeRestaurant="2365119" idReview="80">
+<sentence idSentence="1">O tacacá continua bom, mas o problema ainda é o preço.</sentence>
+<opinion aspect="tacacá" sentiment="bom" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="preço" sentiment="problema" polarity="Negative" aspectClass="Price" type="explicit"/>
+<sentence idSentence="2">Inclusive, recentemente houve um aumento para R$18,00.</sentence>
+<sentence idSentence="3">Resultado: só dá para provar de vez em quando.</sentence>
+<sentence idSentence="4">Como alternativa, o tacacá do parque rio negro é tão bom quanto e custa bem menos.</sentence>
+<opinion aspect="tacacá" sentiment="bom" polarity="Positive" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="2365119" idReview="81">
+<sentence idSentence="1">O tacacá da Gisela, juntamente com o governo do Estado, promovem todas as quartas o tacacá na bossa que é um evento onde os artistas locais se apresentam no largo.</sentence>
+<sentence idSentence="2">Ótima opção para quem está a passeio pela cidade e quer experimentar um tacacá e ouvir boa música.</sentence>
+<opinion aspect="opção" sentiment="Ótima" polarity="Positive" aspectClass="General" type="anaphora"/>
+<sentence idSentence="3">O tacacá não é um dos melhores, mas a música compensa.</sentence>
+</review>
+<review codeRestaurant="2365136" idReview="82">
+<sentence idSentence="1">Deliciosos pratos.</sentence>
+<opinion aspect="pratos" sentiment="Deliciosos" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">Local aconchegante e familar.</sentence>
+<opinion aspect="Local" sentiment="aconchegante" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="Local" sentiment="familar" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<sentence idSentence="3">Boa comida e boa bebida.</sentence>
+<opinion aspect="comida" sentiment="Boa" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="bebida" sentiment="boa" polarity="Positive" aspectClass="Drinks" type="explicit"/>
+<sentence idSentence="4">Ideal para desfrutar um jantar romantico.</sentence>
+</review>
+<review codeRestaurant="2365141" idReview="83">
+<sentence idSentence="1">O cardápio é bem variado, gostoso, mas o atendimento é muito ruim.</sentence>
+<opinion aspect="atendimento" sentiment="ruim" polarity="Negative" aspectClass="Service" type="explicit"/>
+<opinion aspect="cardápio" sentiment="variado" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="cardápio" sentiment="gostoso" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">As garçonetes atendem com um mau humor...parece que estão fazendo um favor, eu mesmo pedi uma tapioca e estou esperando entregarem até hoje!</sentence>
+<sentence idSentence="3">Precisa melhorar muito o atendimento ou dar um treinamento porque a comida é muito boa e aquelas funcionárias afundam o restaurante.</sentence>
+<opinion aspect="comida" sentiment="boa" polarity="Positive" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="3248036" idReview="84">
+<sentence idSentence="1">A Cachaçaria do Dedé do Shop Manauara brilha aos olhos: é linda, imponente, a decoração é fantástica e você pode ficar ao ladinho de árvores nativas da Amazônia.</sentence>
+<opinion aspect="decoração" sentiment="fantástica" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="Cachaçaria do Dedé" sentiment="linda" polarity="Positive" aspectClass="General" type="explicit"/>
+<opinion aspect="Cachaçaria do Dedé" sentiment="imponente" polarity="Positive" aspectClass="General" type="explicit"/>
+<sentence idSentence="2">Os pratos, petiscos e bebidas são nota 10!</sentence>
+<opinion aspect="petiscos" sentiment="nota 10" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="pratos" sentiment="nota 10" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="bebidas" sentiment="nota 10" polarity="Positive" aspectClass="Drinks" type="explicit"/>
+<sentence idSentence="3">Mas....... o serviço às vezes deixa muito a desejar.... mais pela demora.</sentence>
+<opinion aspect="serviço" sentiment="deixa muito a desejar" polarity="Negative" aspectClass="Service" type="explicit"/>
+<sentence idSentence="4">Então, tenha paciência!</sentence>
+<sentence idSentence="5">rs O bar lota nos fins de tarde, principalmente às sextas feiras.</sentence>
+<sentence idSentence="6">No andar de cima, o burburinho chega a ser insuportável de tanta gente!</sentence>
+<sentence idSentence="7">rs Mas se vc quer se divertir, relaxar e degustar pratos deliciosos (experimente o Pirarucu na chapa!</sentence>
+<sentence idSentence="8">), aguente..... rs Vale a pena!</sentence>
+<sentence idSentence="9">Mesmo com os preços um pouco salgados....</sentence>
+<opinion aspect="preços" sentiment="salgados" polarity="Negative" aspectClass="Price" type="explicit"/>
+</review>
+<review codeRestaurant="3248036" idReview="85">
+<sentence idSentence="1">Lugar muito agradável, comida excelente é importante o bom atendimento dos garçons.</sentence>
+<opinion aspect="comida" sentiment="excelente" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="Lugar" sentiment="agradável" polarity="Positive" aspectClass="Location" type="explicit"/>
+<opinion aspect="atendimento dos garçons" sentiment="bom" polarity="Positive" aspectClass="Service" type="explicit"/>
+<sentence idSentence="2">Recomendo.</sentence>
+<sentence idSentence="3">Pedimos um pirarucu ao molho de tucupi e não arrependemos</sentence>
+</review>
+<review codeRestaurant="3248036" idReview="86">
+<sentence idSentence="1">O nome engana - o lugar tem uma variedade enorme de todo tipo de bebidas, comidas tipicas deliciosas padrão gourmet, um ambiente aconchegante.</sentence>
+<opinion aspect="ambiente" sentiment="aconchegante" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="comidas tipicas" sentiment="deliciosas" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">Quem entra não tem pressa de sair.</sentence>
+</review>
+<review codeRestaurant="3248036" idReview="87">
+<sentence idSentence="1">Muito bom!</sentence>
+<sentence idSentence="2">A carne de sol é ótima, muito bem servida, as Cervejas do Dedé são muito saborosas, principalmente a Dunkel, o atendimento é top</sentence>
+<opinion aspect="Cervejas" sentiment="saborosas" polarity="Positive" aspectClass="Drinks" type="explicit"/>
+<opinion aspect="atendimento" sentiment="top" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="carne de sol" sentiment="ótima" polarity="Positive" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="3248036" idReview="88">
+<sentence idSentence="1">Ambiente ótimo pra ir com amigos, comida muito boa mesmo.</sentence>
+<opinion aspect="comida" sentiment="boa" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="Ambiente" sentiment="ótimo" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<sentence idSentence="2">A decoração é linda e voce pode caminhar pelo local e conhecer cachaças de varias partes do país e do mundo, e o melhor estão todas a venda, otimo ambiente.</sentence>
+<opinion aspect="decoração" sentiment="linda" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="ambiente" sentiment="otimo" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<sentence idSentence="3">Super recomendo.</sentence>
+</review>
+<review codeRestaurant="3248036" idReview="89">
+<sentence idSentence="1">Local bonito e agradável, localizado dentro do shopping Manauara.</sentence>
+<opinion aspect="Local" sentiment="agradável" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="Local" sentiment="bonito" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<sentence idSentence="2">Muitas opções de drinks e bebidas.</sentence>
+<sentence idSentence="3">O atendimento deixou um pouco a desejar porque tinha garçons que não sabiam quais os chopes disponíveis na casa e chegamos a ficar 15 min esperando uma rodada com um monte de garçom ocioso.</sentence>
+<opinion aspect="atendimento" sentiment="deixou um pouco a desejar" polarity="Negative" aspectClass="Service" type="explicit"/>
+<sentence idSentence="4">Mesmo assim recomendo o local, basta ser paciente.</sentence>
+</review>
+<review codeRestaurant="3248036" idReview="90">
+<sentence idSentence="1">O que eu pedi e gostei foram o escondidinho de carne de sol e uma carne na chapa, muito gostosa mesmo.</sentence>
+<sentence idSentence="2">além da variedade de bebidas e um chopp bem geladinho.</sentence>
+<opinion aspect="chopp" sentiment="geladinho" polarity="Positive" aspectClass="Drinks" type="explicit"/>
+</review>
+<review codeRestaurant="3248044" idReview="91">
+<sentence idSentence="1">Já fui diversas vezes e sempre levando amigos e parentes para conhecer.</sentence>
+<sentence idSentence="2">Porém, da última vez que fui, depois de meses sem ir, notei que o preço aumentou, mas a qualidade não.</sentence>
+<sentence idSentence="3">As sopas permanecem as mesmas, com as pequenas variações de sempre em conta do dia da semana e eles nem servem mais água.</sentence>
+<sentence idSentence="4">Para quem não conhece ainda, recomendo.</sentence>
+<sentence idSentence="5">Mas acho difícil a casa manter visitantes frequentes com a concorrência que aumenta.</sentence>
+</review>
+<review codeRestaurant="3248044" idReview="92">
+<sentence idSentence="1">Fui diversas vezes desde qdo mudei pra Manaus e trouxe as visitas ( turistas) pra ter a experiência de tomar sopas variadas em sistema de buffet, em ambiente rústico e amplo.Todos sempre gostaram da experiência</sentence>
+<opinion aspect="sopas" sentiment="variadas" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="ambiente" sentiment="rústico" polarity="Neutral" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="ambiente" sentiment="amplo" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+</review>
+<review codeRestaurant="3248049" idReview="93">
+<sentence idSentence="1">Rodízio contém pizzas e massas e além disso tem cardápio, estacionamento não tem.</sentence>
+<sentence idSentence="2">Contém também sopas</sentence>
+</review>
+<review codeRestaurant="3248049" idReview="94">
+<sentence idSentence="1">Um lugar aconchegante, seguro, tem estacionamento, atendimento é bom, os preços são moderados, cardápio variado, sopas, vale a pena conhecer.</sentence>
+<opinion aspect="lugar" sentiment="seguro" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="lugar" sentiment="aconchegante" polarity="Positive" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="atendimento" sentiment="bom" polarity="Positive" aspectClass="Service" type="explicit"/>
+<opinion aspect="cardápio" sentiment="variado" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="preços" sentiment="moderados" polarity="Positive" aspectClass="Price" type="explicit"/>
+</review>
+<review codeRestaurant="3248066" idReview="95">
+<sentence idSentence="1">Quando se está com muita fome e sem opção o Habibs pode ser a saída....o ambiente não é agradável e comida é razoável.</sentence>
+<opinion aspect="ambiente" sentiment="agradável" polarity="Negative" aspectClass="Ambience" type="explicit"/>
+<opinion aspect="comida" sentiment="razoável" polarity="Neutral" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="3248073" idReview="96">
+<sentence idSentence="1">Melhor rodízio de pizza de manaus (de terça a quinta-feira), a pizza com massa fininha, bem recheada e com vários sabores, muito bom!!</sentence>
+<opinion aspect="rodízio" sentiment="Melhor" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="pizza com massa" sentiment="fininha" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">O rodízio tem um preço acima dos concorrentes, mas vale o cobrado pela qualidade oferecida.</sentence>
+<opinion aspect="preço" sentiment="acima dos concorrentes" polarity="Negative" aspectClass="Price" type="explicit"/>
+<sentence idSentence="3">O serviço é bom, sempre tem um garçom por perto e o bacana é que possui um estacionamento gratuito bem em frente.</sentence>
+<opinion aspect="serviço" sentiment="bom" polarity="Positive" aspectClass="Service" type="explicit"/>
+<sentence idSentence="4">O gergelim na borda é a marca registrada da pizzaria e vai muito bem com os sabores salgados.</sentence>
+<sentence idSentence="5">Para beber uma dica é o mate que fazem, que acompanha bem a pizza.</sentence>
+<sentence idSentence="6">Já na sobremesa, as pizzas de cupuaçu e de mm's já fazem valer o rodízio, por serem sensacionais.</sentence>
+<opinion aspect="pizzas" sentiment="sensacionais" polarity="Positive" aspectClass="Food" type="explicit"/>
+</review>
+<review codeRestaurant="3248073" idReview="97">
+<sentence idSentence="1">Vim comer nessa pizzaria no domingo.</sentence>
+<sentence idSentence="2">Foi bastante tranquilo e a pizza veio rápido.</sentence>
+<sentence idSentence="3">Achei bem saborosa e com recheio de qualidade.</sentence>
+<opinion aspect="recheio" sentiment="qualidade" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="4">Não gostei muito da borda com gergelim, algo fora do padrão de pizza.</sentence>
+<opinion aspect="borda com gergelim" sentiment="Não gostei" polarity="Negative" aspectClass="Food" type="explicit"/>
+<sentence idSentence="5">Mas de maneira geral valeu a pena.</sentence>
+</review>
+<review codeRestaurant="3248075" idReview="98">
+<sentence idSentence="1">Uma boa opção para quem quer comer rápido, mas fugindo do barulho da praça de alimentação.</sentence>
+<sentence idSentence="2">Buffet com opções variadas e saborosas.</sentence>
+<opinion aspect="Buffet com opções" sentiment="variadas" polarity="Positive" aspectClass="Food" type="explicit"/>
+<opinion aspect="Buffet com opções" sentiment="saborosas" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="3">De sobremesa, peça o petit gateau !</sentence>
+</review>
+<review codeRestaurant="3248079" idReview="99">
+<sentence idSentence="1">Além de continuar com um bom self service, com destaque para as sobremesas, também tem boas opções a la carte.</sentence>
+<opinion aspect="self service" sentiment="bom" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="2">Mas o destaque são os drinks preparados pelo Marcolino, principalmente as caipirinhas de cupuaçu e a tradicional.</sentence>
+<sentence idSentence="3">Também tem bons shows folclóricos nas quintas feira.</sentence>
+<opinion aspect="shows folclóricos" sentiment="bons" polarity="Positive" aspectClass="Miscellaneous" type="explicit"/>
+</review>
+<review codeRestaurant="3248083" idReview="100">
+<sentence idSentence="1">A melhor coisa dessa padaria é a possibilidade de montar seu próprio sanduíche com as opções da casa.</sentence>
+<sentence idSentence="2">Apesar de não ser um lanche pra matar a fome (ainda mais porque não é tão barato assim), é uma ótima opção para acompanhar um cafezinho.</sentence>
+<opinion aspect="opção" sentiment="ótima" polarity="Positive" aspectClass="Food" type="explicit"/>
+<sentence idSentence="3">Cafezinho esse que aliás, é muito bom.</sentence>
+<opinion aspect="Cafezinho" sentiment="bom" polarity="Positive" aspectClass="Drinks" type="explicit"/>
+</review>
+</reviews>
